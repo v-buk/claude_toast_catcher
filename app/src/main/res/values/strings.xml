@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_description">Records every toast message shown on this device so test automation can read it later. Data stays on the device.</string>
+</resources>
